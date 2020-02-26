@@ -1,0 +1,7 @@
+{
+  "name": "live-git",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mateusluiz <mateus74890@gmail.com>",
+  "license": "MIT"
+}
